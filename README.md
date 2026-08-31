@@ -97,8 +97,8 @@ This Bank Churn Analysis project provides a comprehensive approach to understand
 
 For any questions or further information, please contact:
 
-- **Name:** Muhammad Sahanwaj
-- **Email:** muhammadsahanwaj03@gmail,com
-- **LinkedIn:** https://www.linkedin.com/in/m-sahanwaj/
+- **Name:** Dhruv Verma
+- **Email:** contact.dhruv12@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/dhruv0verma/
 
 Thank you for being so interested in the Bank Churn Analysis project!
